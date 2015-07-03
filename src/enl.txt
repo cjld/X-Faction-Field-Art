@@ -1,0 +1,24 @@
+良师益友---压蛋蛋
+压蛋蛋---铁五星
+铁五星---罗姆楼
+罗姆楼---良师益友
+创新社---风声
+风声---钉
+钉---獬豸
+创新社---獬豸
+清华综体---清华大学中央主楼
+清华大学中央主楼---Tides Statue
+Tides Statue---歪毡巴
+清华综体---歪毡巴
+老头一---先生二
+先生二---门神
+门神---TsingHua Academy of Art&Design Old Man Statue
+老头一---TsingHua Academy of Art&Design Old Man Statue
+Pepper Potts---飞机总动员
+飞机总动员---石狮子-左
+石狮子-左---土生土长
+Pepper Potts---土生土长
+飞机总动员---FIT楼浮雕
+FIT楼浮雕---济安堂白狮子
+济安堂白狮子---贵宾楼大球
+飞机总动员---贵宾楼大球

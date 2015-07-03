@@ -1,0 +1,25 @@
+一零一东石狮---China Book Shop
+China Book Shop---中关村
+中关村---北大科技园（Peking University Science Park）
+北大科技园（Peking University Science Park）---一零一东石狮
+未来之门---柱子顶个球
+乒乓球台---樓梯間
+樓梯間---柱子顶个球
+未来之门---综合科研楼
+综合科研楼---乒乓球台
+原燕京大学未名湖区---飞奔的妹子
+飞奔的妹子---飞奔的妹子
+飞奔的妹子---南极石简介(Intro of the Antarctic Rock)
+原燕京大学未名湖区---原燕京大学未名湖区
+石架---原燕京大学未名湖区
+南极石简介(Intro of the Antarctic Rock)---先进长廊
+陳岱孫---石架
+先进长廊---Science and Democracy
+Science and Democracy---北京大学邮局
+北京大学邮局---北京大学邮局
+陳岱孫---北京大学工学院
+北京大学邮局---Science and Democracy
+Science and Democracy---汉画研究所
+北京大学工学院---石龟驼碑 右
+汉画研究所---石龟驼碑 左
+石龟驼碑 右---石龟驼碑 左
